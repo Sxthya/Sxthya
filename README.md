@@ -19,17 +19,17 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 </p>
 <br><hr>
-<img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=tokyonight" width="450"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=tomsmater" />
+<img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=Sxthya&show_icons=true&theme=tokyonight" width="450"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=Sxthya" />
 
 
 ---
 
  
-- Just a Random Dude Who does Coding and some other stuff
+- Just a Chill Guy Who does Coding and some other stuff
 - My dream is to study in IIT 
-- I Mostly use HTML,CSS,JS,SCSS,REACT etc.
-- I dont usually post stuff in github
+- I Mostly use HTML,CSS,JS,SCSS,Python etc.
+- I dont usually post stuff in here
 
   
 
