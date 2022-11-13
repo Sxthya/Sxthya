@@ -34,10 +34,5 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
   
 
 
----
- <h1> My Contributions </h1> 
 
-
-  
-![snake gif](https://github.com/Sxthya/Sxthya/blob/output/github-contribution-grid-snake.svg)
 ---
