@@ -27,7 +27,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
  
 - Just a Chill Guy Who does Coding and some other stuff
-- My dream is to study in IIT 
+- My dream is to Become a famouse coder in one of the biggest gaming companies in history 
 - I Mostly use HTML,CSS,JS,SCSS,Python etc.
 - I dont usually post stuff in here
 
